@@ -7,5 +7,5 @@ There are specific rules in Xiangqi and they prevent some moves from being playe
 The project prints "hatali hareket" in the case of an imposible move.
 The input should be entered as in the "main file".
 IMPORTANT NOTICE:: PLEASE PLAY THIS GAME USING THE INTELLIJ IDE.
-USING ONLY JAVAC TO COMPILE MAY RUN AN ERROR WITH THE NON ASCII CHARACTER "Ş" TO CAUSE COMPILATION ERRORS. ALSO THE GAME BOARD SEEMS BETTER AT INTELLIJ 
+USING ONLY JAVAC TO COMPILE MAY CREATE AN ERROR WITH THE NON ASCII CHARACTER "Ş" THAT CAUSE COMPILATION ERRORS. ALSO THE GAME BOARD SEEMS BETTER AT INTELLIJ 
 Have fun! Thank you for your interest in this project!
