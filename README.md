@@ -9,5 +9,5 @@ The input should be entered as in the "main file".
 -IMPORTANT NOTICE:: PLEASE PLAY THIS GAME USING THE INTELLIJ IDE.
 -USING ONLY JAVAC TO COMPILE MAY CREATE AN ERROR WITH THE NON ASCII CHARACTER "Ş" THAT CAUSE COMPILATION ERRORS. ALSO THE GAME BOARD SEEMS BETTER AT INTELLIJ 
 -Have fun! Thank you for your interest in this project!
--- side notes: Check-mate checks and imposible move checks could've been handled more efficiently but this was one of my friest projects.
+-- side notes: Check-mate checks and imposible move checks could've been handled more efficiently but this was one of my first projects.
 - Although save/load system is functional, as of now I haven't added them as options which means one must code the lines to save/load.
