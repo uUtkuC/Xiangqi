@@ -1,3 +1,4 @@
+This is my first project that I completed in Java during my 2nd semester in the university.
 This is a project that allows you to play Xiangqi, also known as the Chinese Chess.
 It has its own rules. for more: https://www.gnu.org/software/xboard/whats_new/rules/Xiangqi.html
 -The output is shown in the terminal.
